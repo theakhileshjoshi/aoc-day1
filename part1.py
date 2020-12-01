@@ -20,4 +20,4 @@ for i in range(200):
                break
                
 ###printing the multiplication of the two numbers
-print(entry1*entry2*entry3)
+print(entry1*entry2)
